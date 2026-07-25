@@ -34,7 +34,7 @@ An autonomous desktop robot engineered for my university capstone. It orchestrat
 ### AEROSPACE & AI RESEARCH
 
 **Rocket Flight Computers & Medical Deep Learning**
-When I'm not building robotics, I'm developing real-time Thrust Vector Control (TVC) flight computers for model scale rockets using 6-axis IMU telemetry on RP2040 microcontrollers, or training convolutional neural networks for automated diagnostic classification of autoimmune skin conditions.
+When I'm not building robotics, I'm developing real-time Thrust Vector Control (TVC) flight computers for model scale rockets using 6-axis IMU telemetry on RP2040 microcontrollers, or training convolutional neural networks for [automated diagnostic classification of autoimmune skin conditions](https://github.com/abishek-tr21/Autoimmune-Skin-Disease-DL).
 
 ---
 
