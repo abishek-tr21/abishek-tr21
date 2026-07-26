@@ -4,7 +4,7 @@ I engineer software that talks to physical hardware.
 
 From scalable Java backend architectures and complex SQL queries to real-time Linux firmware and microcontroller telemetry — I build complete systems from chip level to cloud.
 
-[Email](mailto:abishektr21@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abishek-thirunavukkarasu-042670322) · [Instagram](https://www.instagram.com/abishek.tr21) · [CHITTI Robot](https://github.com/abishek-tr21/CHITTI-Robot) · [Resume](./Abishek_T_Resume.pdf)
+[Portfolio](https://abishektr.online) · [Email](mailto:abishektr21@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abishek-thirunavukkarasu-042670322) · [Instagram](https://www.instagram.com/abishek.tr21) · [CHITTI Robot](https://github.com/abishek-tr21/CHITTI-Robot) · [Resume](./Abishek_T_Resume.pdf)
 
 India · Open to IT & Core ECE roles · Java & SQL in the terminal · Raspberry Pi & UART on the workbench
 
